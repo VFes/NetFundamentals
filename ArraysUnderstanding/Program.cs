@@ -10,7 +10,7 @@ namespace ArraysUnderstanding
     {
         static void Main(string[] args)
         {
-            int[] numbers = new int[5];
+            int[] numbers = new int[5];//
 
             numbers[0] = 4;
             numbers[1] = 8;
